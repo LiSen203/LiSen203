@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Lisen203's Github stats](https://github-readme-stats.vercel.app/api?username=LiSen203&show_icons=true&include_all_commits=true)](https://github.com/LiSen203/github-readme-stats)
+[![Lisen203's Github stats](https://github-readme-stats.vercel.app/api?username=LiSen203&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/LiSen203/github-readme-stats)
 
 
 
