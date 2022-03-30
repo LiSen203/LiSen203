@@ -2,6 +2,12 @@
 
 <!--
 **LiSen203/LiSen203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github stats](https://github-readme-stats.vercel.app/api?username=LiSen203&show_icons=true&include_all_commits=true)](https://github.com/LiSen203/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiSen203&layout=compact&theme=buefy&show_icons=true)](https://github.com/LiSen203/github-readme-stats)
+
+
+
+
 
 Here are some ideas to get you started:
 
