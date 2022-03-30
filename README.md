@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=LiSen203&show_icons=true&include_all_commits=true)](https://github.com/LiSen203/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy)
+[![Lisen203's Github stats](https://github-readme-stats.vercel.app/api?username=LiSen203&show_icons=true&include_all_commits=true)](https://github.com/LiSen203/github-readme-stats)
 
 
 
