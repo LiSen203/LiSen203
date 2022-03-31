@@ -8,9 +8,9 @@
 <div class="半">
   <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LiSen203&count_private=true&show_icons=true"/>
 </div>
-<div class="半">
+<!-- <div class="半">
   <img width="350px" height="165px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiSen203&layout=compact&langs_count=5" />
-</div>
+</div> -->
   
 ###  🛠   技术栈
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-666)
