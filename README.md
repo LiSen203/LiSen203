@@ -2,7 +2,7 @@
 
 ### 想成为全栈开发人员
 
-- 📚 现在学习  **React** & **TypeScript**和**Java**。
+- 📚 现在学习  **React** & 和**Java**。
 - 😄 **今年汇总**✨
 
 <div class="半">
